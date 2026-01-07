@@ -25,5 +25,7 @@ Concept Used:
 How to Run the Program:
 1. Install Python on your system
 2. Install matplotlib 
-3.Run the notebook:
+3. Run the notebook:
+SCT_DS_1.ipynb
+
   
